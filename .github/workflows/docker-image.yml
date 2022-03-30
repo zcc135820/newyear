@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: docker_id/flao0
+          tags: zcc8080456/flao0
